@@ -1,0 +1,79 @@
+.menu{
+    color: #0094E0 !important;
+}
+.textosmenus{
+    color:#001F6B !important;
+    font-size: 30px;
+}
+
+.equipo{
+    font-size: 60px;
+    background: rgb(2,0,36);
+    background: linear-gradient(151deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 16%, rgba(0,212,255,1) 77%);
+    color: white;
+}
+
+.fotoequipo{
+}
+
+.nombreProfesional{
+    color: #0094E0;
+}
+
+.nombreProfesionalBlanco{
+    color: white;
+}
+
+.curriculum{
+    color: #001F6B;
+}
+
+.fondoProfesional{
+    background: rgb(9,9,121);
+    background: linear-gradient(115deg, rgba(9,9,121,1) 47%, rgba(0,212,255,1) 73%, rgba(255,255,255,1) 100%);
+}
+
+.datos{
+    background-color:#0094E0;
+    color: white;
+}
+
+i{
+    color: white;
+}
+
+.insta{
+    font-size: 20px;
+}
+
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30' %3e%3cpath stroke='rgb%289, 9,121, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+.navbar-toggler{
+    border: 1px solid rgb(9,9,121);
+}
+
+.fondoFormulario{
+    background-color: #001F6B;
+}
+
+.fondoDatos{
+    background-color: white;
+    color: #001F6B;
+    border-radius: 10px;
+}
+
+.formulario{
+    background-color: #0094E0;
+    border-radius: 10px;
+    padding-top: 100px !important;
+}
+
+.btnEnviar{
+    background-color: white;
+}
+
+.hablemos{
+    font-size: 60px;
+}
